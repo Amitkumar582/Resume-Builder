@@ -200,11 +200,12 @@ ResumeBuilder/
 
 ## 👨‍💻 Author
 
-**Harsh Kumar**
+**Amit Kumar**
 
-- GitHub: [@Harsh13912](https://github.com/Harsh13912)
-- Email: 23bcs13912@gmail.com
+- GitHub: [@Amitkumar582](https://github.com/Amitkumar582)
+- Email: 23bcs13770@gmail.com
 
 ---
+
 
 **⭐ Star this repo if you found it helpful!**
